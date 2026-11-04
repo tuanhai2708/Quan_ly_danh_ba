@@ -1,7 +1,3 @@
-# Quản lý danh bạ
-
-Ứng dụng Flutter/Dart 3, giao diện Material 3 bằng tiếng Việt. Đây là bản chuyển thể chức năng từ đề bài `De_bai_Quan_ly_danh_ba.docx` theo yêu cầu dùng Flutter. Đề gốc yêu cầu Java/XML và Activity/Intent; bản này dùng Widget và Navigator nên cần thống nhất lại công nghệ với giảng viên trước khi nộp.
-
 ## Chạy ứng dụng
 
 Cài Flutter stable với Dart từ 3.10 và Android SDK, mở emulator hoặc kết nối điện thoại rồi chạy:
