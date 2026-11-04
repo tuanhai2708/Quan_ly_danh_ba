@@ -67,7 +67,7 @@ Tài liệu tham khảo:
 
 - Tên repository theo đề: `MSS# Quản lý danh bạ
 
-Ứng dụng Flutter/Dart 3, giao diện Material 3 bằng tiếng Việt. Đây là bản chuyển thể chức năng từ đề bài `De_bai_Quan_ly_danh_ba.docx` theo yêu cầu dùng Flutter. Đề gốc yêu cầu Java/XML và Activity/Intent; bản này dùng Widget và Navigator nên cần thống nhất lại công nghệ với giảng viên trước khi nộp.
+Ứng dụng Flutter/Dart 3, giao diện Material 3 bằng tiếng Việt. Đây là bản chuyển thể chức năng từ đề bài `De_bai_Quan_ly_danh_ba.docx` theo yêu cầu dùng Flutter. Đề gốc yêu cầu Java/XML và Activity/Intent; bản này dùng Widget và Navigator
 
 ## Chạy ứng dụng
 
@@ -136,5 +136,3 @@ Tài liệu tham khảo:
 - Tên repository theo đề: `TH_APP_2810`
 - Tên sinh viên: Trần Tuấn Hải
 - MSV: B24DCCC102
-- Đầu báo cáo ghi họ tên, mã sinh viên, lớp và link repository.
-- Phần mô tả cần dùng đúng các lớp Flutter trong dự án này.
